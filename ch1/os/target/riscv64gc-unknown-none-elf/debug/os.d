@@ -1,0 +1,1 @@
+/home/garen/rCore-Learning/ch1/os/target/riscv64gc-unknown-none-elf/debug/os: /home/garen/rCore-Learning/ch1/os/src/entry.asm /home/garen/rCore-Learning/ch1/os/src/lang_items.rs /home/garen/rCore-Learning/ch1/os/src/main.rs /home/garen/rCore-Learning/ch1/os/src/sbi.rs
